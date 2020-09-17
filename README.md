@@ -12,9 +12,12 @@ www.shift4me.com
 
 [chip.de news](https://www.chip.de/news/Fahrrad-Hack-So-bekommt-Ihr-Rad-eine-automatische-Gangschaltung_182934165.html) [2020/08/29]
 
-[Eindhoven Maker Faire](https://eindhoven.makerfaire.com/maker/entry/216/) [26 & 27 september 2020]
-
 [Arduino.cc blog](https://blog.arduino.cc/2020/09/09/shift4me-is-an-automatic-bicycle-shifter/) [2020/09/09]
+
+[Shift4Me - workbench demo video](https://www.youtube.com/watch?v=9t_GTWhJj9I) [2020/09/15]
+
+[Eindhoven Maker Faire](https://eindhoven.makerfaire.com/maker/entry/216/) [2020/09/26-27]
+
 
 ## Contributors
 
